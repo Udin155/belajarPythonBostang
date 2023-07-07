@@ -9,7 +9,7 @@ umur = int(input())
 
 if umur > 18:
     print("boleh nonton bokep")
-else if umur <= 18:
+elif umur < 18:
     print("belum boleh boi.. belum bisa ngaceng")
 else:
     print("yah boleh deh.. tapi diem-diem")    
